@@ -1,10 +1,4 @@
-/**
-Author:    Build Rise Shine with Nyros (BRS)
-Created:   11.05.2022
-Library / Component: Script file
-Description: Logic behind the app(fetching the data from the API)
-(c) Copyright by BRS with Nyros.
-**/
+
 let chathams_blue = '#1A4B84';
 mapboxgl.accessToken = 'pk.eyJ1IjoicGFyaXNyaSIsImEiOiJja2ppNXpmaHUxNmIwMnpsbzd5YzczM2Q1In0.8VJaqwqZ_zh8qyeAuqWQgw';
 const map = new mapboxgl.Map({
